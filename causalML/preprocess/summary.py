@@ -6,7 +6,7 @@
 '''
 
 import numpy as np 
-import Xcausal.utils.tools as tools
+import causalML.utils.tools as tools
 
 
 class Summary(object):

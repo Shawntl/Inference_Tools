@@ -8,7 +8,7 @@
 import numpy as np
 from itertools import combinations_with_replacement
 from scipy.optimize import fmin_bfgs
-import Xcausal.utils.tools as tools
+import causalML.utils.tools as tools
 
 
 class Propensity_Select(object):
